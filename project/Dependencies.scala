@@ -26,6 +26,7 @@ object Dependencies {
       "eu.timepit" %% "refined" % "0.9.12",
       "com.github.julien-truffaut" %% "monocle-core" % "2.0.1",
       "com.github.julien-truffaut" %% "monocle-macro" % "2.0.1",
+      "com.softwaremill.retry" %% "retry" % "0.3.3",
       "org.scala-steward" %% "scala-steward-core" % "0.8.1"
     ) ++ Seq(
       "io.circe" %% "circe-core",
